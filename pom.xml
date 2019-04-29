@@ -32,7 +32,7 @@
 						<muleVersion>${app.runtime}</muleVersion>
 						<username>sunaksharma1607</username>
 						<password>@Rajajipuram1</password>
-						<applicationName>hello-app</applicationName>
+						<applicationName>hello-app-ssharma</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
